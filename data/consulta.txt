@@ -1,0 +1,12 @@
+Paciente: Broto
+Data: 15/05/2024
+Motivo: asdasd
+
+Paciente: Broto
+Data: 15/05/2024
+Motivo: asdasdasd
+
+Paciente: Mamba
+Data: 01/08/2024
+Motivo: rotina
+
